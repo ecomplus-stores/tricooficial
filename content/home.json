@@ -4,25 +4,25 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/whatsapp-image-2022-03-03-at-20.55.34.jpeg"
+      "img": "/img/uploads/winter.png"
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/entregas-0110.png"
+      "img": "/img/uploads/atacado-minimo-5-pecas.png"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/020.png",
+          "img": "/img/uploads/lancamentos.png",
           "link": "https://www.tricooficial.com.br/inverno"
         },
         {
-          "img": "/img/uploads/010.png",
+          "img": "/img/uploads/lancamentos-1-.png",
           "link": "https://www.tricooficial.com.br/lancamentos"
         },
         {
-          "img": "/img/uploads/030.png",
+          "img": "/img/uploads/lancamentos-2-.png",
           "link": "https://www.tricooficial.com.br/verao/"
         }
       ]
